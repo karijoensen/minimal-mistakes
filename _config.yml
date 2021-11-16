@@ -32,7 +32,7 @@ masthead_title           : "Rekstarform samvinnufélaga og ný tækifæri" # ove
 words_per_minute         : 200
 
 header:
-  image: "/assets/images/image-filename.jpg"
+  image: "/assets/images/photo-rowing.jpg"
   caption: "Photo credit: [**Mitchell Luo - Unsplash**](https://unsplash.com/photos/H3htK85wwnU)"
 
 
@@ -290,9 +290,16 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: splash
+      layout: single
       author_profile: true
       read_time: true
       comments: # true
       share: true
       related: true
+      
+header:
+  overlay_image: "/assets/images/photo-rowing.jpg"
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  actions:
+    - label: "More Info"
+      url: "https://unsplash.com"

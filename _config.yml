@@ -32,7 +32,7 @@ masthead_title           : "Rekstarform samvinnufélaga og ný tækifæri" # ove
 words_per_minute         : 200
 
 header:
-  image: /assets/images/image-filename.jpg
+  image: "/assets/images/image-filename.jpg"
   caption: "Photo credit: [**Mitchell Luo - Unsplash**](https://unsplash.com/photos/H3htK85wwnU)"
 
 

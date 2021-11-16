@@ -111,17 +111,16 @@ analytics:
 # Site Author
 author:
   name             : "Höfundar"
-  avatar           : "/assets/images/photo-rowing.jpg"
   bio              : "**Ágúst Guðjónsson** \n\n **Bryndís Inga Reynis** \n\n **Ísak Eyfjörð Arnarson** \n\n\n\n Hér eru dregnar saman upplýsingar um umfang reksturs samvinnufélaga á Íslandi og þróun síðustu áratuga."
-  location         : "Somewhere"
-  email            :
+  location         : "Bifröst"
+  email            : "kari@bifrost.is"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:kari@bifrost.is"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://www.bifrost.is"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"

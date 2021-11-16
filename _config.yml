@@ -111,7 +111,7 @@ analytics:
 # Site Author
 author:
   name             : "Höfundar"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/photo-rowing.jpg"
   bio              : "**Ágúst Guðjónsson** \n\n **Bryndís Inga Reynis** \n\n **Ísak Eyfjörð Arnarson** \n\n\n\n Hér eru dregnar saman upplýsingar um umfang reksturs samvinnufélaga á Íslandi og þróun síðustu áratuga."
   location         : "Somewhere"
   email            :

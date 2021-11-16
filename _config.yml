@@ -22,6 +22,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Ágúst | Bryndís Inga | Ísak | Kári"
 description              : "An amazing website."
+layout                   : "splash"
 url                      : "https://karijoensen.github.io"
 baseurl                  : "/minimal-mistakes/"
 repository               : "karijoensen/minimal-mistakes"

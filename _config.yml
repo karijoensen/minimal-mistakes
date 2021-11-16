@@ -29,13 +29,11 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "Rekstarform samvinnufélaga og ný tækifæri" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
-header                   : "/assets/images/photo-rowing.jpg"
-  overlay_image: "/assets/images/photo-rowing.jpg"
 words_per_minute         : 200
 
-header:
-  image: "/assets/images/cope.png"
-  caption: "Photo credit: [**Mitchell Luo - Unsplash**](https://unsplash.com/photos/H3htK85wwnU)"
+# header:
+#  image: "/assets/images/cope.png"
+#  caption: "Photo credit: [**Mitchell Luo - Unsplash**](https://unsplash.com/photos/H3htK85wwnU)"
 
 
 
